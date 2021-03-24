@@ -1,0 +1,12 @@
+body{
+   background-color: burlywood;
+}
+.header{
+   text-align: center;
+   margin-top: 30%;
+}
+.title{
+   color: brown;
+   font-size:50px;
+   text-shadow: 1px 1px 2px brown;
+}
