@@ -1,1 +1,1 @@
-# JavaScript-Lesson23
+Тренируем js.
